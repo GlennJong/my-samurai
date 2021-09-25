@@ -1,0 +1,196 @@
+{
+    "homepage": {
+        "heading": {},
+        "intro": {
+            "dialog1": {
+                "title": "Oops!",
+                "content": "Did you just click the button? "
+            },
+            "dialog2": "You must have sent all the Cryptopunks back to ancient Japan.",
+            "dialog3": "Get on our first-ever blockchain time machine and meet the Katana N' Samurai!",
+            "cover": "/images/homepage-intro-mask-alt-2.png",
+            "samurai": ["/images/samurai/1.jpg", "/images/samurai/109.jpg"]
+        },
+        "news1": {
+            "heading": "Robot Samurai Coming...",
+            "banner": ["/images/news/robot-samurai-blueprint.jpg"]
+        },
+        "news2": {
+            "heading": "Creating a SamuraiVerse where\n Samurai can Change Clothes and\n Join different Shogunates.",
+            "banner": ["/images/news/6.png"]
+        },
+        "news3": {
+            "heading": "Even Purchasing, Forging, Designing Katana to\n Join the Battle between Shogunates.",
+            "banner": ["/images/news/7.png"]
+        },
+        "story": {
+            "title": "Katana N' Samurai is composed of elements with different rarity and power values. ",
+            "subtitle": "Our Samurai can change clothes, carry Katana, and get ready to fight for their Shogunate in our KNS GAME."
+        },
+        "gallery": {
+            "desktop": [2410, 312, 5142, 129, 3517, 892, 2109, 2961, 83, 73, 1550, 117, 3863, 3862, 89, 109, 184, 3267, 2730, 375, 6865, 5143, 5870, 38, 1910, 1628, 29, 1981, 328, 7280, 350, 21, 6359, 7312, 232, 822, 9, 1380, 3, 1590, 179, 1654, 223, 8236, 9956],
+            "mobile": [2410, 312, 6359, 37, 1550, 109, 98, 375, 6865, 5870, 1981, 38, 892, 351, 21, 179, 5143, 232, 9, 7312, 2109, 514, 87, 184, 3, 3267, 223, 1628, 29, 7280]
+        },
+        "card": {
+            "heading": "“May the Samurai be with you!”",
+            "cards": [
+                { "heading": "/images/homepage-card-title-hatamoto.png", "heading_m": "/images/homepage-card-title-hatamoto-mobile.png", "background": "#435762", "qty": "/images/homepage-card-qty-400.png", "samurai": "/images/homepage-card-samurai-titan.png", "samurai_m": "/images/homepage-card-samurai-titan-mobile.png", "content": "“Only Samurai Aliens, Apes, and Zombies like us can be the highest-ranking samurai. We direct service to the Shogunate and guard the flag in the fight.”" },
+                { "heading": "/images/homepage-card-title-kashira.png", "heading_m": "/images/homepage-card-title-kashira.png", "background": "#5f806d", "qty": "/images/homepage-card-qty-1600.png", "samurai": "/images/homepage-card-samurai-noble.png", "samurai_m": "/images/homepage-card-samurai-noble.png", "content": "“We are Samurai trusted by Hatamoto. Carrying out missions, coordinating units composed of Doshin officials is our duty. Fight for the honor and win respect!”" },
+                { "heading": "/images/homepage-card-title-doshin.png", "heading_m": "/images/homepage-card-title-doshin.png", "background": "#e5a896", "qty": "/images/homepage-card-qty-3000.png", "samurai": "/images/homepage-card-samurai-general.png", "samurai_m": "/images/homepage-card-samurai-general.png", "content": "“All the chonin in the Shogunate are under our protection. Crime? Murder? Theft? No worries, here we are.”" },
+                { "heading": "/images/homepage-card-title-komono.png", "heading_m": "/images/homepage-card-title-komono.png", "background": "#959273", "qty": "/images/homepage-card-qty-5000.png", "samurai": "/images/homepage-card-samurai-ronine.png", "samurai_m": "/images/homepage-card-samurai-ronine.png", "content": "“Be as the youngest Samurai, we're campaigning and full of energy. When not at war, we assist Doshin to do their daily work.”" }
+          ]
+        },
+        "purchase": {
+            "title": "Draw your swords",
+            "items": [
+                {"title": "Hatamoto", "percent": 4},
+                {"title": "Kashira", "percent": 16},
+                {"title": "Doshin", "percent": 30},
+                {"title": "Komono", "percent":  50}
+            ],
+            "price": 0.05,
+            "sold": [
+                { "percent": 10, "content": "Every <b>1,000 SOLD</b>, we will invite those Samurai who come to this parallel universe before then, and airdrop <b>Ukiyo-e woodblock chain history work</b> on Discord."},
+                { "percent": 20, "content": "<b>CHANGE</b> their <b>CLOTHES</b>! (Promise that you won't peek.)"},
+                { "percent": 40, "content": "Let's <b>GET KATANA</b> for our Samurai! We will invite all of the Samurai to join the designing. "},
+                { "percent": 60, "content": "The <b>MAP</b> of power distribution gets <b>UNLOCKED</b>."},
+                { "percent": 80, "content": "<b>SPECIAL AIRDROP</b> decided by <b>YOU</b>."},
+                { "percent": 100, "content": "Yeehaw! Katana N' Samurai will develop into a <b>GAME</b>!"}
+            ]
+        },
+        "description": {
+            "title": "Wars break out from time to time. Check out who’s controlling the world.",
+            "subtitle": "“Honor may not win power, but it wins respect. And respect earns power.”\nFight for your respective Shogunate!"
+        },
+        "about": {
+            "title": "Btw, Katana N’ Samurai is programmatically transported to Japan and lives on the Ethereum blockchain.",
+            "subtitle": "Katana N’ Samurai is a collection of 10,000 unique digital samurai. We initiated the blockchain time machine and sent all the Cryptopunks back to ancient Japan. It’s not the year 2021, it’s the year 1700. <b>In this parallel universe, Samurai belong to different Shogunate, carry different levels of power, with their legends</b>. \n\n<b>Ukiyo-e</b> is the way we picture our Katana N’ Samurai. Also, we want to <b>record the history of the blockchain world</b>. \n\nTo make here a sustainable and interactive community, Samurai community will eventually <b>run by a DAO</b>. People who join Samuraiverse will be involved in <b>determining the direction of this project</b>, including <b>designing Katana with the team</b>.\n\nWelcome to Samuraiverse! Join our Discord and follow our Twitter to be part of our community!",
+            "article": {
+                "title": "The elements of your \nSamurai may be composed of:",
+                "content": "Scenery: Four seasons of Fuji, Hokkaido, Kyoto, Tokyo, Osaka\n\nClothes: Cherry blossom, Checkered, Chrysanthemum, Cross, Star-print (size S, M, L, XL)\n\nRace: Human, Zombie, Ape, Alien\n\nEyes: Confused eyes, Red eyes, Smiley eyes, Geisha eyes, Alien eyes\n\nHats and hairstyles: Bandana, Bamboo hat, Purple Cap, Green cap, Beanie, Hoodie, Knitted cap, Mohawk Hairstyle, Long hair, Big beard\n\nKatana: Will be designed with our community after 40% of our samurai sold\n\nAccessories: Ethereum earring, Tongue out, Pipe, 3D Glasses, VR, Nerd Glasses, Glasses with chain\n\nPersona: it might be a quote, an accomplishment, or a secret that no one else knows\n\n\n(Note that there are more additional surprises to be unlocked!)"
+            },
+            "socials": [
+                { "icon": "Medium", "link": "https://katana-n-samurai.medium.com/" },
+                { "icon": "Discord", "link": "https://discord.gg/bYVgUrWdyr" },
+                { "icon": "Twitter", "link": "https://twitter.com/KatanaNSamurai" }
+            ]
+        }
+    },
+    "header": {
+        "links": [
+            { "to": "/?to=gallery", "title": "GALLERY"},
+            { "to": "/?to=social-class", "title": "SOCIAL CLASS" },
+            { "to": "/?to=purchase", "title": "BUY"},
+            { "to": "/my-samurai", "title": "MY SAMURAI"},
+            { "to": "/?to=road-map", "title": "ROAD MAP"},
+            { "to": "/?to=about", "title": "ABOUT US"}
+        ],
+        "socials": [
+            { "icon": "Medium", "link": "https://katana-n-samurai.medium.com/" },
+            { "icon": "Discord", "link": "https://discord.gg/bYVgUrWdyr" },
+            { "icon": "Twitter", "link": "https://twitter.com/KatanaNSamurai" }
+        ]
+    },
+    "shogunate": [
+        {
+            "name": "oda",
+            "pin": {"x":80,"y":27},
+            "color": "#3FA572",
+            "title": "ODA\nSHOGUNATE", 
+            "about": "About oda Shogunate",
+            "description": "oda Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias provident omnis aliquid voluptates iusto facilis commodi veritatis ratione, doloremque est qui nisi quas assumenda excepturi vitae molestiae quisquam mollitia architecto.",
+            "map": "/images/shogunate/oda-map.png", 
+            "image": "/images/shogunate/oda-image.png", 
+            "icon": "/images/shogunate/oda-icon.svg"
+        },
+        {
+            "name": "muromachi",
+            "pin": {"x":75,"y":70},
+            "color": "#D06551",
+            "title": "MUROMACHI\nSHOGUNATE", 
+            "about": "About muromachi Shogunate",
+            "description": "muromachi Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias provident omnis aliquid voluptates iusto facilis commodi veritatis ratione, doloremque est qui nisi quas assumenda excepturi vitae molestiae quisquam mollitia architecto.",
+            "map": "/images/shogunate/muromachi-map.png", 
+            "image": "/images/shogunate/muromachi-image.png", 
+            "icon": "/images/shogunate/muromachi-icon.svg"
+        },
+        {
+            "name": "imperial_house",
+            "pin": {"x":58,"y":63},
+            "color": "#3F6FBA",
+            "title": "IMPERIAL\nHOUSE", 
+            "about": "About imperial house",
+            "description": "imperial_house Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias provident omnis aliquid voluptates iusto facilis commodi veritatis ratione, doloremque est qui nisi quas assumenda excepturi vitae molestiae quisquam mollitia architecto.",
+            "map": "/images/shogunate/imperial_house-map.png", 
+            "image": "/images/shogunate/imperial_house-image.png", 
+            "icon": "/images/shogunate/imperial_house-icon.svg"
+        },
+        {
+            "name": "kamakura",
+            "pin": {"x":25,"y":35},
+            "color": "#DDAD44",
+            "title": "KAMAKURA\nSHOGUNATE", 
+            "about": "About kamakura Shogunate",
+            "description": "kamakura Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias provident omnis aliquid voluptates iusto facilis commodi veritatis ratione, doloremque est qui nisi quas assumenda excepturi vitae molestiae quisquam mollitia architecto.",
+            "map": "/images/shogunate/kamakura-map.png", 
+            "image": "/images/shogunate/kamakura-image.png", 
+            "icon": "/images/shogunate/kamakura-icon.svg"
+        },
+        {
+            "name": "edo",
+            "pin": {"x":30,"y":65},
+            "color": "#7654B5",
+            "title": "EDO\nSHOGUNATE", 
+            "about": "About edo Shogunate",
+            "description": "edo Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias provident omnis aliquid voluptates iusto facilis commodi veritatis ratione, doloremque est qui nisi quas assumenda excepturi vitae molestiae quisquam mollitia architecto.",
+            "map": "/images/shogunate/edo-map.png", 
+            "image": "/images/shogunate/edo-image.png", 
+            "icon": "/images/shogunate/edo-icon.svg"
+        }
+    ],
+    "design": [
+        {
+            "name": "clothes",
+            "title": "Change your clothes",
+            "hint": "．Only gas fee is needed.",
+            "data": [
+                { "name": "red", "title": "red\nclothe", "image": "/images/design/red-clothe.png", "shogunate": "oda" },
+                { "name": "red", "title": "red\nclothe", "image": "/images/design/red-clothe.png", "shogunate": "muromachi" },
+                { "name": "pink", "title": "pink\nclothe", "image": "/images/design/pink-clothe.png", "shogunate": "imperial_house" },
+                { "name": "pink", "title": "pink\nclothe", "image": "/images/design/pink-clothe.png", "shogunate": "kamakura" },
+                { "name": "pink", "title": "pink\nclothe", "image": "/images/design/pink-clothe.png", "shogunate": "edo" },
+                { "name": "green", "title": "green\nclothe", "image": "/images/design/green-clothe.png", "shogunate": "oda" },
+                { "name": "green", "title": "green\nclothe", "image": "/images/design/green-clothe.png", "shogunate": "kamakura" },
+                { "name": "green", "title": "green\nclothe", "image": "/images/design/green-clothe.png", "shogunate": "edo" },
+                { "name": "blue", "title": "blue\nclothe", "image": "/images/design/blue-clothe.png", "shogunate": "oda" },
+                { "name": "blue", "title": "blue\nclothe", "image": "/images/design/blue-clothe.png", "shogunate": "kamakura" }
+            ]
+        },
+        {
+            "name": "weapon",
+            "title": "Change your weapon",
+            "hint": "．Only gas fee is needed."
+        },
+        {
+            "name": "mood"
+        },
+        {
+            "name": "xxxx"
+        }
+    ],
+    "my_samurai": {
+        "samurai": {
+            "design": "DESIGN MY SAMURAI"
+        },
+        "shogunate": {
+            "heading": "FIGHT FOR YOUR SHOGUNATE!",
+            "force_value": "FORCE VALUE",
+            "about": "About $shogunate Shogunate"
+        },
+        "design": {
+            "heading": "DESIGN MY SAMURAI!",
+            "discount": "XXXX XXX 30% \nUnlock XXXX !",
+            "new_design": "NEW DESIGN"
+        }
+    }
+}
